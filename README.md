@@ -10,8 +10,8 @@
 
 <h3> CSS Basics </h3>
 
-* [CSS Tutorial](https://www.w3schools.com/css/)
-* [Multiple Class / ID and Class Selectors](https://css-tricks.com/multiple-class-id-selectors/)
+* [CSS Basics](https://www.w3schools.com/css/)
+* [CSS Combine selectors](https://css-tricks.com/multiple-class-id-selectors/)
 * [The 30 CSS Selectors You Must Memorize](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [Part 1: Conflict Resolution](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 * [Part 2: Conflict Resolution](https://www.coursera.org/lecture/html-css-javascript-for-web-developers/lecture-17-part-2-conflict-resolution-5OuBt)
@@ -19,12 +19,15 @@
 * [CSS Grid Layout Crash Course](https://www.youtube.com/watch?v=jV8B24rSN5o)
 * [CSS Grid vs Flexbox](https://www.youtube.com/watch?v=RSIclWvNTdQ)
 
-<h3> JavaScript Basics <h3>
+<h3> JavaScript Basics </h3>
   
-* []()
-* []()
-* []()
-* []()
+* [Basics (Upto Javascript Objects)](https://www.tutorialspoint.com/javascript/javascript_syntax.htm)
+* [JavaScript HTML DOM (Upto NodeLists)](https://www.w3schools.com/js/js_htmldom.asp)
+* [The Modern JavaScript Tutorial (Upto DataTypes)](https://app.slack.com/client/TC169T79C/D02PH444D0R)
+* [JavaScript Tutorial for Beginners: Learn JavaScript in 1 Hour](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+
+<h3> Git Bascis </h3>
+
 * []()
 * []()
 * []()
